@@ -1,0 +1,11 @@
+{
+    handle: `@GingerKiwiDev`,
+    profilePic: `images/avatar.png`,
+    likes: 1,
+    retweets: 0,
+    tweetText: `[DATE] #100DaysOfCode Day 0XX: lorem ipsum ... `,
+    replies: [],
+    isLiked: true,
+    isRetweeted: false,
+    uuid: '4b161eee-c0f5-4545-9c4b-856294422doc0XX',
+},
