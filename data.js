@@ -9,7 +9,7 @@ export const tweetsData = [
         replies: [],
         isLiked: true,
         isRetweeted: false,
-        uuid: '4b161eee-c0f5-4545-9c4b-856294422doc094',
+        uuid: '4b161eee-c0f5-4545-9c4b-856294422doc095',
     }
 
     {
