@@ -1,4 +1,17 @@
 export const tweetsData = [   
+    
+    {
+        handle: `@GingerKiwiDev`,
+        profilePic: `images/avatar.png`,
+        likes: 1,
+        retweets: 0,
+        tweetText: `[Wed Dec 14, 2022] #100DaysOfCode Day 095: 1) Updated gingerkiwi.blog including creating new repo with git workspace. 2) Scrimba - Frontend Developer Career Path. Started Next Level Javascript ` ,
+        replies: [],
+        isLiked: true,
+        isRetweeted: false,
+        uuid: '4b161eee-c0f5-4545-9c4b-856294422doc094',
+    }
+
     {
         handle: `@GingerKiwiDev`,
         profilePic: `images/avatar.png`,
