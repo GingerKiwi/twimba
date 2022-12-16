@@ -5,7 +5,7 @@ export const tweetsData = [
         profilePic: `images/avatar.png`,
         likes: 1,
         retweets: 0,
-        tweetText: `[Wed Dec 14, 2022] #100DaysOfCode Day 096: Scrimba - Frontend Developer Career Path. Next Level Javascript: object destructuring and applying to rendering html` ,
+        tweetText: `[Thur Dec 15, 2022] #100DaysOfCode Day 096: Scrimba - Frontend Developer Career Path. Next Level Javascript: object destructuring and applying to rendering html` ,
         replies: [],
         isLiked: true,
         isRetweeted: false,
